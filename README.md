@@ -1,15 +1,11 @@
 <p align="center"><img width="100px"
    style="margin-bottom:-6px" src="https://cdn.discordapp.com/avatars/809496186905165834/7dbf02cb782c7111b817f329cac0257a.png" /></p>
 <h1 align="center">Weky</h1>
-<p align="center">
-   <a href="https://weky-docs.js.org/"><img src="https://img.shields.io/badge/Documentation-Yes-amiajokegreen.svg?style=flat-square" />
-   <br>
-   <a href="https://www.npmjs.com/package/weky"><img src="https://nodei.co/npm/weky.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
-</p>
+
 
 ## What is weky?
 - A fun npm package to play games within Discord with buttons!
-- looking for examples? click here: [Examples](https://github.com/WekyDev/weky-npm/tree/main/Examples)
+- looking for examples? click here: [Examples](https://github.com/SevenriotProjects/weky-npm/tree/main/Examples)
 
 ## Whats new?
 - Removed quick.db because i got error while installing it :moyai:
@@ -79,7 +75,7 @@ client.login('DISCORD_BOT_TOKEN');
 
 ## Contributing 🤝
 - Contributions, issues and feature requests are welcome!
-- Feel free to check **[issues page](https://github.com/WekyDev/weky-npm/issues)**.
+- Feel free to check **[issues page](https://github.com/SevenriotProjects/weky-npm/issues)**.
 - 
 ## Developers (New) 👨‍💻
 - **Sadman**: Discord: **.sadnan_**
