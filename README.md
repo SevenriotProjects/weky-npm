@@ -13,13 +13,14 @@
 
 ## Whats new?
 - Removed quick.db because i got error while installing it :moyai:
+- Removed djs v12 :moyai:
 
 ## Features
 - 🧑 Beginner friendly
 - 🎉 Easy to use
 - ✨ Simple
 - 🔘 Discord Buttons
-- 🤖 Supports Discord.js V13 and V12
+- 🤖 Supports Discord.js V13
 - and much more!
 
 ## Install the package 📥
@@ -42,40 +43,6 @@ await Calculator({
     invalidQuery: 'The provided equation is invalid!',
     othersMessage: 'Only <@{{author}}> can use the buttons!'
 });
-```
-
-## Example ✏️
-#### Discord.js v12.5.3
-```js
-const Discord = require('discord.js');
-require('@weky/inlinereply');
-const client = new Discord.Client();
-const disbut = require('discord-buttons');
-const { Calculator } = require('weky');
-disbut(client);
-
-client.on('ready', async () => {
-	console.log(`Logged in as ${client.user.tag}`);
-});
-
-client.on('message', async (message) => {
-	if(message.content === '!calculator') {
-		await Calculator({
-			message: message,
-			embed: {
-				title: 'Calculator | Weky Development',
-				color: '#5865F2',
-				footer: '©️ Weky Development',
-				timestamp: true,
-			},
-			disabledQuery: 'Calculator is disabled!',
-			invalidQuery: 'The provided equation is invalid!',
-			othersMessage: 'Only <@{{author}}> can use the buttons!',
-		});
-	}
-});
-
-client.login('DISCORD_BOT_TOKEN');
 ```
 
 #### Discord.js v13.1.0
