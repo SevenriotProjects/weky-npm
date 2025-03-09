@@ -2,7 +2,6 @@
    style="margin-bottom:-6px" src="https://cdn.discordapp.com/avatars/809496186905165834/7dbf02cb782c7111b817f329cac0257a.png" /></p>
 <h1 align="center">Weky</h1>
 <p align="center">
-   <a href="https://www.npmjs.com/package/weky"><img src="https://img.shields.io/npm/v/weky.svg?style=flat-square" /></a>
    <a href="https://weky-docs.js.org/"><img src="https://img.shields.io/badge/Documentation-Yes-amiajokegreen.svg?style=flat-square" /></a>
    <a href="https://github.com/WekyDev/weky-npm/blob/main/LICENSE"><img src="https://nuggies.js.org/assets/img/license.ade17f5e.svg" /></a>
    <br>
@@ -112,8 +111,11 @@ client.login('DISCORD_BOT_TOKEN');
 ## Contributing 🤝
 - Contributions, issues and feature requests are welcome!
 - Feel free to check **[issues page](https://github.com/WekyDev/weky-npm/issues)**.
+- 
+## Developers (New) 👨‍💻
+- **Sadman**: Discord: **.sadnan_**
 
-## Developers 👨‍💻
+## Old Developers 👨‍💻
 - **[Face#5454](https://github.com/face-hh)**
 - **[Sujal Goel#7602](https://github.com/sujalgoel)**
 - **[rayz#4986](https://github.com/rayzdev)**
